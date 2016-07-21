@@ -149,8 +149,8 @@ def buildCanvasHTML( ):
 
 
 message =  buildCanvasHTML ()
-with io.open('PMC-FGF.html','w',encoding='utf8') as f:
+with io.open('index.html','w',encoding='utf8') as f:
     f.write(message)
 
 f.close()
-webbrowser.open_new_tab('PMC-FGF.html')
+webbrowser.open_new_tab('index.html')

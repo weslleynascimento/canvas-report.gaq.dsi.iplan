@@ -1,14 +1,22 @@
 
 O que é a Justificativa?
-
+Coloque os problemas que a organização atualmente enfrenta e quais necessidades
+não são atendidas no momento.
+Exemplo: projetos fora do padrão, insatisfação do patrocinador, gerentes de
+projetos gastam a maior parte do tempo apagando incêndio, perda de faturamento,
+perda de cliente.
 Falta de previsibilidade na execução da ATAS
-
+As ATAS são celebradas e não há meios de controle centralizado do que foi contratado, o que foi executado, saldo remanescente etc.
 Dificuldade para gerir os requisitos da ATA
-
+Os termos de referência que originam as ATAS estabelecem uma série de requisitos. Alguns desses requisitos são de natureza global, ou seja, afetam a vários contratos. A falta de ferramenta para a gestão desses requisitos trás fragilidade na gestão da ATA.
 Falta de visão dos contratos celebrados com as fábricas
-
-Faltar transparência nas entregas realizadas
-
+Atualmente, não há um controle dos contratos celebrados com as fábricas de software e as secretarias dos município. 
+Falta de visão de entregas integradas de Fábrica de Desenvolvimento e Métrica 
+As fábricas de métricas e software demanda uma visão integrada de suas atividades. O serviços executados pela fábrica de métricas pode demandar uma relação com a fábrica de software quando não for medição individual de legado ou de desenvolvimento interno.
+Falta de visão das entregas previstas 
+A falta ou precariedade de planejamento das entregas previstas impedem as áreas dos envolvidos (CONTRATANTE, CONTRATADA e RESPONSÁVEL TÉCNICA) de efetuarem um plano de alocação de equipes.
+Falta de visão das entregas realizadas
+As entregas de software e artefatos obrigatórios não apresentam visibilidade para todos os envolvido, prejudicando a gestão e trazendo fragilidade ao processo de contratação por fábrica
 O que é o Produto?
 
 Ferramenta implantada
@@ -70,20 +78,18 @@ Roadmap do produto
 Software implantado
 
 O que é linha do Tempo?
-Nesse momento, definimos quando vão ocorrer as entregas do grupo de entregas. A
-metodologia PM Canvas sugere que o prazo do projeto seja dividido em 4 períodos
-definidos pela equipe do projeto.
+
 2016 - Pacote 1
-Entrega de PGP, Backlog e Roadmap
+
 2017 - R1
-Software rodandoRelease 1 lançada conforme definido no Roadmap
+
 2017 - R2
-Release 2 lançada conforme definido no Roadmap
+
 2017 - R3
-Release 3 lançada conforme definido no Roadmap
-Melhor controle dos aceites efetuados
 
 O que são Benefícios Futuro?
+
+Melhor controle dos aceites efetuados
 
 Visão consolidada de todos os contratos
 
