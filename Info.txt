@@ -1,0 +1,102 @@
+
+O que é a Justificativa?
+
+Falta de previsibilidade na execução da ATAS
+
+Dificuldade para gerir os requisitos da ATA
+
+Falta de visão dos contratos celebrados com as fábricas
+
+Faltar transparência nas entregas realizadas
+
+O que é o Produto?
+
+Ferramenta implantada
+
+O que são Stakeholders?
+
+CTA - Coordenadoria Técnica de Atendimento
+
+GAQ - Gerência de Aquisição
+
+GPS - Gerência de Projeto de Sistemas
+
+O que são Premissas?
+
+Haverá alocação de time Scrum para desenvolvimento
+
+O que são Riscos?
+
+Não ter time disponível para desenvolvimento
+
+O que Objetivo SMART?
+
+Implantar ferramenta de gestão das fábricas de software
+
+O que são Requisitos?
+
+Prover indicadores de desempenho
+
+Permitir aceitar ou rejeitar entregas de uma OS
+
+Gerir diversas Ordens de Serviço
+
+Gerir diversos contratos
+
+Gerir diversas ATAS
+
+Gerir requisitos globais
+
+Gerir emissão de TAPs
+
+Prover camada de integração
+
+O que é Equipe?
+
+Mônica (Gerente de Aquisição)
+
+St. José Renato da Sustentação (consultor de aquisição)
+
+Weslley (consultor de aquisição)
+
+O que são Entregas?
+
+Plano de Gerenciamento de Projeto
+
+Backlog do produto
+
+Roadmap do produto
+
+Software implantado
+
+O que é linha do Tempo?
+Nesse momento, definimos quando vão ocorrer as entregas do grupo de entregas. A
+metodologia PM Canvas sugere que o prazo do projeto seja dividido em 4 períodos
+definidos pela equipe do projeto.
+2016 - Pacote 1
+Entrega de PGP, Backlog e Roadmap
+2017 - R1
+Software rodandoRelease 1 lançada conforme definido no Roadmap
+2017 - R2
+Release 2 lançada conforme definido no Roadmap
+2017 - R3
+Release 3 lançada conforme definido no Roadmap
+Melhor controle dos aceites efetuados
+
+O que são Benefícios Futuro?
+
+Visão consolidada de todos os contratos
+
+Melhor prestação de contas junto aos órgão de controle
+
+Melhoria no trabalho do líder técnico 
+
+O que são Restrições?
+
+O que são os Custos?
+
+PCS - Progressão por Mérito
+
+Agile Brazil
+
+Almoço mensal
